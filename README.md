@@ -58,3 +58,7 @@ Open in browser:
 Order viewing
 
 Dashboard overview
+
+create uploads folder, move accessories folder, arrangement_icons folder, customers folder, flowers folder, payment_proofs folder, products folder into created uploads folder
+
+build tinny_flower_shop database, and import tinny_flower_shop(11).sql
